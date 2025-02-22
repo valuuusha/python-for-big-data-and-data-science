@@ -1,0 +1,1 @@
+print("Valentyna Dermenzhi, CS-2, group 1")
